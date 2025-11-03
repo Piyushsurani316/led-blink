@@ -1,7 +1,7 @@
-.pio/
+
 .pioenvs/
 build/
 *.bin
 *.hex
-.vscode/
+.vscode
 .idea/
