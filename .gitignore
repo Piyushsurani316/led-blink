@@ -1,0 +1,7 @@
+.pio/
+.pioenvs/
+build/
+*.bin
+*.hex
+.vscode/
+.idea/
